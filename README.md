@@ -6,7 +6,18 @@ Im a junior in php/laravel. Seeking a new challeng for php/laravel developer pos
 education,business experience also have a possion to work in a competitive environment to do my best and cope up with
 new technologies.
 
-Skills:  HTML / CSS/BOOTSTRAP/API/PHP/OOP PHP/CURAD SYSTEM/MVC/MYSQL/LARAVEL/GIT
+Skills: 
+* HTML
+* CSS
+* BOOTSTRAP
+* API
+* PHP
+* OOP PHP
+* CURAD SYSTEM
+* MVC
+* MYSQL
+* LARAVEL
+* GIT
 
 - 🔭 I’m currently working on this page. 
 
